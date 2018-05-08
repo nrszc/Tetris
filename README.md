@@ -1,5 +1,5 @@
 # Tetris
-用Java实现经典小游戏：俄罗斯方块，可用键盘操作，也可用鼠标点击进行操作<br><br><br>
+用Java实现经典小游戏：俄罗斯方块，可用键盘操作，也可用鼠标点击进行操作<br><br>
 感谢大佬的代码参考，传送门：https://github.com/beyondfengyu/SlidingBlocks  <br><br><br><br><br>
 主界面<br><br>
 ![主界面](https://github.com/nrszc/Tetris/blob/master/picture/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)<br><br><br>
